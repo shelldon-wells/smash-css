@@ -1,0 +1,39 @@
+/* ------- Stylesheet for SW Desgins ----- */
+
+
+/* ------- Some Google fonts here -------- */
+@import url();
+
+
+/* ------- Setup some variables ---------- */
+:root {}
+
+
+/* ------- Set up box sizing ------------- */
+*,
+*::before,
+*::after {box-sizing: border-box;}
+
+
+
+
+
+
+/* ------- TYPOGRAPHY -------------------- */
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+h6 {}
+
+p {}
+
+a {}
+
+
+/* ------ COMPONENTS ---------------------- */
+ul {}
+
+li {}
+
